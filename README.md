@@ -1,1 +1,1 @@
-# -CC12---Homework-1
+# CC12---Homework-1
